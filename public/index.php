@@ -1,5 +1,6 @@
 <?php
 
+echo 11111;die();
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
